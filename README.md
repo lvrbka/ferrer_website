@@ -1,2 +1,1 @@
-# ferrer_website
-Francisco Ferrer says, abolish exams!
+Francisco Ferrer says, abolish exams! A practice website.
